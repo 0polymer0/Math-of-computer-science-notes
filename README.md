@@ -1,2 +1,3 @@
 # Math-of-computer-science-notes
-Notes for computer science class
+
+These notes will contain the basic mathematics of a computer science curriculum accessible to middle schoolers.
